@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "build": "lerna run --parallel build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "lerna": "^7.1.5"
+  }
+}
